@@ -1,5 +1,5 @@
 
-# House Price Predict
+# House Price Prediction
 
 This Project aims to predict the prices of house based on characteristics and features . By using machine learning algorithms and statistical modeling techniques we can predictthe prices of house. This project is made for a *kaggle* _competition_.
 
@@ -46,7 +46,7 @@ We can predict the price of house
 You can find the Data set [here] https://www.kaggle.com/code/prasadperera/the-boston-housing-dataset/input
 
 
-## Authors
+## Author
 
 - [@Akkaldevi Saivinayak](https://www.github.com/riskyhomo)
 
