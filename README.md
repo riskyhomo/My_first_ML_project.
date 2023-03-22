@@ -43,7 +43,7 @@ MEDV - Median value of owner-occupied homes in $1000's
 
 We can predict the price of house 
 
-You can find the Data set [here] (https://www.kaggle.com/code/prasadperera/the-boston-housing-dataset/input)
+You can find the Data set [here](https://www.kaggle.com/code/prasadperera/the-boston-housing-dataset/input)
 
 
 ## Author
